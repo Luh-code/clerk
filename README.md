@@ -1,2 +1,2 @@
 # clerk
-A highly customizable logger written in c++ and taking advantage of parameter packs.
+An extendable and highly customizable logger written in c++ and taking advantage of parameter packs.
